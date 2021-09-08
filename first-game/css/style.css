@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    /* background: linear-gradient(blue 50%, pink); */
+    background: #f5f5f5;
+    /* border: 2px solid; */
+}
+
+.wrapper {
+    width: 900px;
+    margin: 0 auto;
+}
+
+#game{
+    margin: 50px;
+}
